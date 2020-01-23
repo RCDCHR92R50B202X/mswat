@@ -1,11 +1,11 @@
 table {
     border: 2px solid black;
-    border-collapse: collapse;
-    width: 50%;
+    
+    width: 80%;
 }
 
 td, th {
-    border: 1px solid red;
+    border: 5px solid navy;
     padding: 3px;
     text-align: center;
 }
@@ -15,5 +15,5 @@ th {
 }
 
 td {
-    background-color: lightgreen;
+    background-color: white;
 }

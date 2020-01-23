@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #eaf1f4;
+}
+
+h1 {
+	color: #5489a0;
+}
+table {
+    border: 3px #000000;
+        width: 50%;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 2px;
+    text-align: center;
+}
+
+th {
+    background-color: lightblue;
+}
+
+td {
+    background-color: white;
+}
+
+.titolo {
+	color: #6e6e6e;
+}
+.autore {
+	color: #6e6e6e;
+}
+
